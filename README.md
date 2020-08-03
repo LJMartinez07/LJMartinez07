@@ -4,5 +4,5 @@
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LuisMartinez28&show_icons=true&theme=vue" alt="LuisMartinez28" /> </p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMartinez28&layout=compact" alt="LuisMartinez28" />
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMartinez28&repo=pos" alt="LuisMartinez28" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMartinez28&layout=compact&theme=vue" alt="LuisMartinez28" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMartinez28&repo=pos&theme=vue" alt="LuisMartinez28" />
