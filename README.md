@@ -4,3 +4,5 @@
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LuisMartinez28&show_icons=true&theme=tokyonight" alt="LuisMartinez28" /> </p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMartinez28" alt="LuisMartinez28" />
+
