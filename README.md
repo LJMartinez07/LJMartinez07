@@ -13,4 +13,3 @@
 
 - 👯 I’m looking to collaborate on awsomes projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
