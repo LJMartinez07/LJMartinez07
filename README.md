@@ -8,7 +8,7 @@
 	<a href="mailto:mrluismartinez28@gmail.com">
 		<img src="https://img.shields.io/badge/-mrluismartinez28@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
 	</a>
-	![](https://komarev.com/ghpvc/?username=ljmartinez07?color=red)
+	
 </p>
 
 <p align="center"> 
@@ -24,3 +24,4 @@ Feel free to talk to me about
 - Literally anything related about the **Javascript** ecosystem
 
 
+![](https://komarev.com/ghpvc/?username=ljmartinez07?color=red)
