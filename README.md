@@ -9,7 +9,7 @@
 		<img src="https://img.shields.io/badge/-mrluismartinez28@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
 	</a>
 </p>
-[GitHub Profile Views Counter]: https://github.com/ljmartinez07/github-profile-views-counter
+
 <p align="center"> 
 	<img src="https://github-readme-stats.vercel.app/api?username=LJMartinez07&show_icons=true&theme=vue" alt="LJMartinez07" /> 
 </p>
@@ -21,3 +21,6 @@
 Feel free to talk to me about
 
 - Literally anything related about the **Javascript** ecosystem
+
+
+![](https://komarev.com/ghpvc/?username=ljmartinez07)
