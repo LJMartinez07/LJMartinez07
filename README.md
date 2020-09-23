@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Luis Martinez! 👋  
+<h2 align="center">Hi, I'm Luis Martinez!  
 	<img width="50" align="center" src="https://raw.githubusercontent.com/LJMartinez07/LJMartinez07/master/assets/Olaf.gif"/>
 </h2>
 <p align="center">
