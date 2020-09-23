@@ -24,4 +24,4 @@ Feel free to talk to me about
 - Literally anything related about the **Javascript** ecosystem
 
 
-![](https://komarev.com/ghpvc/?username=ljmartinez07?color=red)
+![](https://komarev.com/ghpvc/?username=ljmartinez07&color=red)
