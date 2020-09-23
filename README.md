@@ -8,9 +8,8 @@
 	<a href="mailto:mrluismartinez28@gmail.com">
 		<img src="https://img.shields.io/badge/-mrluismartinez28@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
 	</a>
-	![](https://komarev.com/ghpvc/?username=LJmartinez07&color=red)
 </p>
-
+[GitHub Profile Views Counter]: https://github.com/ljmartinez07/github-profile-views-counter
 <p align="center"> 
 	<img src="https://github-readme-stats.vercel.app/api?username=LJMartinez07&show_icons=true&theme=vue" alt="LJMartinez07" /> 
 </p>
