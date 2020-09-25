@@ -15,7 +15,6 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=LJMartinez07&show_icons=true&theme=vue" alt="LJMartinez07" /> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljmartinez07)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" src="https://raw.githubusercontent.com/LJMartinez07/LJMartinez07/master/assets/github_wall.gif" width='200'>
 
