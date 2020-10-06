@@ -24,7 +24,6 @@
 Feel free to talk to me about
 
 - Literally anything related about the **Javascript** ecosystem
-- Political **economy** and **history**
 
 
 ![](https://komarev.com/ghpvc/?username=ljmartinez07&color=red)
