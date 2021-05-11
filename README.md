@@ -13,5 +13,3 @@
 
 
 
-
-![](https://komarev.com/ghpvc/?username=ljmartinez07&color=red)
