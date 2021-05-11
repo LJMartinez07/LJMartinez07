@@ -11,19 +11,7 @@
 	
 </p>
 
-<p align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=LJMartinez07&show_icons=true&theme=vue" alt="LJMartinez07" /> 
-</p>
 
-
-<img align="right" src="https://raw.githubusercontent.com/LJMartinez07/LJMartinez07/master/assets/github_wall.gif" width='200'>
-
-- 👯 I’m looking to collaborate on awsomes projects
-- 😄 Pronouns: He/Him
-
-Feel free to talk to me about
-
-- Literally anything related about the **Javascript** ecosystem
 
 
 ![](https://komarev.com/ghpvc/?username=ljmartinez07&color=red)
