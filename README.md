@@ -9,11 +9,3 @@
 		<img src="https://img.shields.io/badge/-mrluismartinez28@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
 	</a>
 </p>
-
-<p align="center">
-<a  href="https://www.digitalocean.com/?refcode=c2390deb2a6c&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg"  alt="DigitalOcean Referral Badge" />
-	</a>
-</p>
-
-
-
