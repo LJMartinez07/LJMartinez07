@@ -8,5 +8,6 @@
 	<a href="mailto:mrluismartinez28@gmail.com">
 		<img src="https://img.shields.io/badge/-mrluismartinez28@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
 	</a>
-	<a href="https://stackoverflow.com/users/19027584/martinez"><img src="https://stackoverflow.com/users/flair/19027584.png" width="208" height="58" alt="profile for Martinez at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Martinez at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+	
 </p>
+<a href="https://stackoverflow.com/users/19027584/martinez"><img src="https://stackoverflow.com/users/flair/19027584.png" width="208" height="58" alt="profile for Martinez at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Martinez at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
