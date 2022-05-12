@@ -10,7 +10,5 @@
 	</a>
 	
 </p>
-<div align="center">
-	<a href="https://stackoverflow.com/users/19027584/martinez"><img src="https://stackoverflow.com/users/flair/19027584.png" width="208" height="58" alt="profile for Martinez at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Martinez at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-	</div>
+
 
