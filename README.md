@@ -1,7 +1,7 @@
 
 ### Luis here 👋
 
-- 🔭 I’m currently in a startups. 
+- 🔭 I’m currently in a startup. 
   - Mostly focused React, React Native & Node.
 - 😄 Pronouns: he/him
 
