@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently on a secret project. 
   - Mostly focused React, React Native & NodeJS, gRPC.
-- 💬 Ask me about: Software Architecture, Data Structures, Design Patterns, and whatever you're building.
+- 💬 Ask me about: Software Architecture, Data Structures, Design Patterns, and what is my favorite programing language.
 
 #### How to reach me:
 
