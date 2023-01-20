@@ -1,7 +1,7 @@
 
 ![wolf](https://raw.githubusercontent.com/LJMartinez07/LJMartinez07/master/assets/WallpaperDog-17160803.jpg)
 
-### Luis here 👋
+### Hi, I'm Luis Martinez 👋
 
 - 🔭 I’m currently in a startup. 
   - Mostly focused React, React Native & Node.
