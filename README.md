@@ -3,9 +3,9 @@
 
 ### Hi, I'm Luis Martinez 👋
 
-- 🔭 I’m currently in a startup. 
-  - Mostly focused React, React Native & Node.
-- 😄 Pronouns: he/him
+- 🔭 I’m currently on a secret project. 
+  - Mostly focused React, React Native & NodeJS, gRPC.
+- 💬 Ask me about: Software Architecture, Data Structures, Design Patterns, and whatever you're building.
 
 #### How to reach me:
 
